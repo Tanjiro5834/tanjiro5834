@@ -7,11 +7,10 @@
 ---
 
 ## 🧠 About Me
-- 🛠️ Backend-focused engineer building **scalable, real-world systems**
-- ⚙️ Strong in **Spring Boot, PHP, and relational databases**
+- 🛠️ Software engineer specializing in backend systems, building **scalable, real-world systems**
+- ⚙️ Experienced in **Spring Boot**, **PHP**, and **relational databases,** with a focus on continuous improvement.
 - 🎮 Experienced with **Unity (C#)** for interactive systems
 - 📊 Focused on **clean architecture, performance, and maintainability**
-- 🚀 Currently developing a **Technician & Service Management System**
 
 ---
 
@@ -21,6 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -28,6 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -65,14 +66,37 @@
 
 ## 🚀 Featured Project
 
-### Technician & Service Management System
+### Technician & Service Management System (Under Development)
 - 🧑‍🔧 Technician assignment & job tracking  
 - 📈 Performance analytics dashboard  
 - 💰 Real-time salary and benefits computation  
 - 🏢 Designed for multi-branch operations  
 
-> Built with: Spring Boot • PHP • MySQL
+> Stack: Spring Boot • PHP • MySQL
 
+### CRAS Service & E-Commerce Platform
+
+  (Coronacion Refrigeration & Airconditioning Services)
+  
+- Integrated service management and product ordering system
+- Dynamic pricing based on product configurations (e.g., horsepower, quantity)
+- Service request handling (installation, repair, HVAC, electrical)
+- Persistent shopping cart and optimized product browsing
+- Mobile-first responsive design for real-world customer usage
+
+> Stack: HTML5, CSS3, JavaScript, PHP (PDO, Object-Oriented), MySQL
+
+### TAIL Institutional Website System
+
+(Thomas Aquinas Institute of Learning)
+
+- Public-facing website with dynamic announcements and institutional content
+- Secure administrative dashboard for content and data management
+- Program, strand, and tuition management system
+- Structured backend with MVC architecture and API layer
+- Designed for scalability, maintainability, and long-term institutional use
+
+> Stack: HTML5, CSS3, JavaScript, PHP (PDO, Object-Oriented), MySQL, Mini-Redis style caching
 ---
 
 ## 📊 GitHub Stats
