@@ -64,7 +64,7 @@
 
 ## 🚀 Projects
 
-### LATEST PROJECT
+### LATEST AND FEATURED PROJECTS
 
 ### BIBO E-Learning App
 - Designed and developed a responsive e-learning system targeting out-of-school youth (ages 7–12), focusing on foundational subjects: english, filipino, mathematics, and science
@@ -92,7 +92,7 @@
 
 > Stack: Spring Boot • PostgreSQL • HTML • CSS • JavaScript • Postman • Railway
 
-### Airconditioning and Refrigeration Company & E-Commerce Platform
+### Airconditioning and Refrigeration Company E-Commerce Platform
 
   (Coronacion Refrigeration and Airconditioning Services)
   
