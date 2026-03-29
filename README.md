@@ -72,11 +72,11 @@
 - 💰 Real-time salary and benefits computation  
 - 🏢 Designed for multi-branch operations  
 
-> Stack: Spring Boot • PHP • MySQL
+> Stack: Spring Boot • PHP • MySQL • React.js • Postman
 
-### CRAS Service & E-Commerce Platform
+### Airconditioning and Refrigeration Company & E-Commerce Platform
 
-  (Coronacion Refrigeration & Airconditioning Services)
+  (Coronacion Refrigeration and Airconditioning Services)
   
 - Integrated service management and product ordering system
 - Dynamic pricing based on product configurations (e.g., horsepower, quantity)
@@ -84,11 +84,11 @@
 - Persistent shopping cart and optimized product browsing
 - Mobile-first responsive design for real-world customer usage
 
-> Stack: HTML5, CSS3, JavaScript, PHP (PDO, Object-Oriented), MySQL
+> Stack: HTML5 • CSS3 • JavaScript • PHP (PDO, Object-Oriented) • MySQL, Redis
 
-### TAIL Institutional Website System
+### Catholic School Institutional Full Stack Web Application
 
-(Thomas Aquinas Institute of Learning)
+(The Thomas Aquinas Institute of Learning, Inc.)
 
 - Public-facing website with dynamic announcements and institutional content
 - Secure administrative dashboard for content and data management
@@ -96,7 +96,7 @@
 - Structured backend with MVC architecture and API layer
 - Designed for scalability, maintainability, and long-term institutional use
 
-> Stack: HTML5, CSS3, JavaScript, PHP (PDO, Object-Oriented), MySQL, Mini-Redis style caching
+> Stack: HTML5 • CSS3 • JavaScript • PHP (PDO, Object-Oriented) • MySQL • Mini-Redis style caching
 ---
 
 ## 📊 GitHub Stats
@@ -110,7 +110,7 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/nathaniel-coronacion-dev901278/
-- 📧 nathanielcoronacion3@gmail.com  
+- 📧 Email: nathanielcoronacion3@gmail.com  
 
 ---
 
