@@ -77,7 +77,7 @@
 - Optimized for cross-device responsiveness (desktop, tablet, mobile) to maximize accessibility in low-resource environments
 - Designed system to support data-driven insights, enabling early detection of learning deficiencies and targeted intervention strategies
 
-> Stack: Vue.js • Laravel • Node.js • Express.js • MySQL/MariaDB • Redis • Postman • Nginx • Python (FastAPI/Flask)
+> Stack: Spring Boot • MySQL • Redis • Postman • Nginx • HTML • CSS • JavaScript
 
 ### TYPEDASH
 - Developed a full-stack typing speed test application featuring real-time performance tracking and interactive typing sessions
