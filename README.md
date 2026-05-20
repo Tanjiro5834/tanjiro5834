@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 🛠️ Software engineer specializing in backend systems, building **scalable, real-world systems**
+- 🛠️ Software Engineer specializing in backend systems, building **scalable, real-world systems**
 - ⚙️ Experienced in **Spring Boot**, **PHP**, and **relational databases,** with a focus on continuous improvement.
 - 🎮 Experienced with **Unity (C#)** for interactive systems
 - 📊 Focused on **clean architecture, performance, and maintainability**
@@ -56,6 +56,36 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### Software Engineer | **Luminaire** | *May 2026 – Present*
+Building Spring Boot + PostgreSQL REST APIs for property management SaaS (web, mobile, desktop, IoT/RFID). Implementing JWT + RBAC (5 user roles), API contracts, Git workflows, and integrating Xendit, Firebase FCM, and MQTT.
+
+> **Stack:** Java 21 • Spring Boot • PostgreSQL • JWT • Firebase • MQTT • Xendit • Docker • Amazon Web Services (AWS) • Kubernetes • VPS
+
+---
+
+### Software Engineer | **Coronacion Refrigeration & Airconditioning Services** | *Jun 2025 – May 2026*
+Built full-stack HVAC e-commerce platform with booking engine, scheduling, product catalog, and payment gateway. Developed admin dashboard (RBAC), optimized MySQL schema, applied security best practices (HTTPS, CSRF, input sanitization), and refactored legacy PHP into clean layered architecture.
+
+> **Stack:** JavaScript • PHP 8.0 • MySQL • HTML5 • CSS3 • CDN
+
+---
+
+### Software Developer (Freelance) | **Self-Employed** | *Jun 2023 – May 2026*
+Delivered 7+ production web apps (booking systems, e-commerce, inventory management) — end-to-end from requirements to deployment. Built REST APIs and admin dashboards using Java, PHP, MySQL, and JavaScript.
+
+> **Stack:** Java 21 • Spring Boot • PHP • MySQL • JavaScript • Python • Tkinter • Java Swing/FX • HTML • CSS • Winforms
+
+---
+
+### Backend Engineer Intern | **Thomas Aquinas Institute of Learning** | *Feb 2026 – Apr 2026*
+Built school management system with RBAC, optimized MySQL schema, server-side pagination, and real-time polling notifications. Implemented cache-aside pattern (19.5ms → 0.68ms) and resolved N+1 query (19 → 1 query, 20% faster). Used MVC + Iterative Waterfall SDLC.
+
+> **Stack:** MySQL • Git • PHP 8.0 • PDO • MVC
 
 ---
 
