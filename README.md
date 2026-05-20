@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nathaniel Coronacion
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;Full-Stack+Developer;Systems+%7C+Game+Dev;Spring+Boot+%7C+PHP+%7C+C%23+%7C+Unity" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer;Backend+Engineer;Systems+%7C+Game+Dev;Spring+Boot+%7C+PHP+%7C+C%23+%7C+Unity" />
 </p>
 
 ---
@@ -14,14 +14,14 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 My Tech Stack
 
-### 💻 Programming Language
+### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🏗️ Backend (Primary)
+### 🏗️ Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -32,10 +32,10 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ---
 
 ### 🎮 Game Development
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
@@ -43,6 +43,8 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -50,6 +52,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -59,7 +63,7 @@
 
 ### LATEST AND FEATURED PROJECTS
 
-### BIBO E-Learning App
+### BIBO: AI-Powered E-Learning App
 - Designed and developed a responsive e-learning system targeting out-of-school youth (ages 7–12), focusing on foundational subjects: english, filipino, mathematics, and science
 - Implemented ai-driven adaptive learning engine that dynamically adjusts content difficulty based on user performance, enabling personalized learning paths
 - Integrated gamification mechanics (progress tracking, rewards, interactive modules) to improve engagement and retention among young learners
@@ -72,16 +76,20 @@
 
 > Stack: Spring Boot • MySQL • Redis • Postman • Nginx • HTML • CSS • JavaScript
 
-### TYPEDASH
-- Developed a full-stack typing speed test application featuring real-time performance tracking and interactive typing sessions
-- Implemented a real-time wpm (words per minute) and accuracy calculation engine, updating dynamically as users type
-- Designed a live speedometer visualization to reflect typing speed using client-side rendering and smooth UI updates
-- Built multiple typing modes (e.g., timed, quote-based, custom input) to support varied user experiences and difficulty levels
-- Engineered a leaderboard system with persistent storage to track and rank top user performances
-- Integrated analytics tracking to monitor typing patterns, accuracy trends, and performance history
-- Optimized frontend responsiveness and rendering performance to ensure low-latency input handling and smooth typing feedback
-- Structured backend with modular api endpoints for score submission, leaderboard retrieval, and session management
-- Ensured data validation and integrity for user inputs and score calculations to prevent manipulation or invalid submissions
+### Travi: Travel Guide & Assistant
+- Built a hierarchical trip planning engine (Trip → Day → Activity) that converts unstructured travel data into structured itineraries with schedules and cost estimation.
+
+- Implemented secure authentication using Spring Security + JWT (login/register, role-based access for admin vs regular users).
+
+- Developed admin content platform for managing destinations, entry requirements, budget guides, packing lists, and local travel tips.
+
+- Built frontend with HTML5, CSS3, and JavaScript ES6+.
+
+- Designed clean layered architecture (Controller → Service → Repository) for scalability and maintainability.
+
+- Deployment ready: Core features complete. Will deploy on Hostinger VPS (Ubuntu + Nginx + Docker).
+
+- Data model structured to support future AI-assisted planning without major refactoring.
 
 > Stack: Spring Boot • PostgreSQL • HTML • CSS • JavaScript • Postman • Railway
 
@@ -98,7 +106,7 @@
 
 > Stack: HTML5 • CSS3 • JavaScript • PHP (PDO, Object-Oriented) • MySQL, Redis
 
-### Catholic School Institutional Full Stack Web Application
+### Catholic School Institutional Platform
 
 (The Thomas Aquinas Institute of Learning, Inc.)
 
