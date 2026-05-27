@@ -61,7 +61,7 @@
 
 ## 💼 Work Experience
 
-### Software Engineer | **Luminaire** | *May 2026 – Present*
+### Software Engineer | **Lumnaire** | *May 2026 – Present*
 Building Spring Boot + PostgreSQL REST APIs for property management SaaS (web, mobile, desktop, IoT/RFID). Implementing JWT + RBAC (5 user roles), API contracts, Git workflows, and integrating Xendit, Firebase FCM, and MQTT.
 
 > **Stack:** Java 21 • Spring Boot • PostgreSQL • JWT • Firebase • MQTT • Xendit • Docker • Amazon Web Services (AWS) • Kubernetes • VPS
@@ -82,7 +82,7 @@ Delivered 7+ production web apps (booking systems, e-commerce, inventory managem
 
 ---
 
-### Backend Engineer Intern | **Thomas Aquinas Institute of Learning** | *Feb 2026 – Apr 2026*
+### Backend Developer | **Thomas Aquinas Institute of Learning** | *Feb 2026 – Apr 2026*
 Built school management system with RBAC, optimized MySQL schema, server-side pagination, and real-time polling notifications. Implemented cache-aside pattern (19.5ms → 0.68ms) and resolved N+1 query (19 → 1 query, 20% faster). Used MVC + Iterative Waterfall SDLC.
 
 > **Stack:** MySQL • Git • PHP 8.0 • PDO • MVC
@@ -93,7 +93,7 @@ Built school management system with RBAC, optimized MySQL schema, server-side pa
 
 ### LATEST AND FEATURED PROJECTS
 
-### BIBO: AI-Powered E-Learning App
+### BIBO: AI-Driven E-Learning App
 - Designed and developed a responsive e-learning system targeting out-of-school youth (ages 7–12), focusing on foundational subjects: english, filipino, mathematics, and science
 - Implemented ai-driven adaptive learning engine that dynamically adjusts content difficulty based on user performance, enabling personalized learning paths
 - Integrated gamification mechanics (progress tracking, rewards, interactive modules) to improve engagement and retention among young learners
