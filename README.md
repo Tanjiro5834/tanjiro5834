@@ -68,7 +68,7 @@ Building Spring Boot + PostgreSQL REST APIs for property management SaaS (web, m
 
 ---
 
-### Software Engineer | **Coronacion Refrigeration & Airconditioning Services** | *Jun 2025 – May 2026*
+### Web Developer | **Coronacion Refrigeration & Airconditioning Services** | *Jun 2025 – May 2026*
 Built full-stack HVAC e-commerce platform with booking engine, scheduling, product catalog, and payment gateway. Developed admin dashboard (RBAC), optimized MySQL schema, applied security best practices (HTTPS, CSRF, input sanitization), and refactored legacy PHP into clean layered architecture.
 
 > **Stack:** JavaScript • PHP 8.0 • MySQL • HTML5 • CSS3 • CDN
