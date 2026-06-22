@@ -61,31 +61,38 @@
 
 ## 💼 Work Experience
 
-### Software Engineer | **Lumnaire** | *May 2026 – Present*
-Building Spring Boot + PostgreSQL REST APIs for property management SaaS (web, mobile, desktop, IoT/RFID). Implementing JWT + RBAC (5 user roles), API contracts, Git workflows, and integrating Xendit, Firebase FCM, and MQTT.
+### Full Stack Developer | **St. John Fisher School** | *June 2026 – Present*
+Built a Cash Flow Monitoring System covering two campuses with role-based access, bank reconciliation, and audit trail. Delivered under a formal SOW with milestone-based payments.
 
-> **Stack:** Java 21 • Spring Boot • PostgreSQL • JWT • Firebase • MQTT • Xendit • Docker • Amazon Web Services (AWS) • Kubernetes • VPS
+> **Stack:** HTML • CSS • JavaScript • PHP • MySQL • Redis
 
 ---
 
-### Web Developer | **Coronacion Refrigeration & Airconditioning Services** | *Jun 2025 – May 2026*
-Built full-stack HVAC e-commerce platform with booking engine, scheduling, product catalog, and payment gateway. Developed admin dashboard (RBAC), optimized MySQL schema, applied security best practices (HTTPS, CSRF, input sanitization), and refactored legacy PHP into clean layered architecture.
+### Java Developer | **Lumnaire** | *May 2026 – Present*
+Building Spring Boot + PostgreSQL REST APIs for a property management SaaS (web, mobile, desktop, IoT/RFID). Implementing JWT + RBAC across 5 user roles, integrating Xendit, Firebase FCM, and MQTT.
+
+> **Stack:** Spring Boot • PostgreSQL • JWT • Firebase • MQTT • Xendit • Docker • AWS • Kubernetes
+
+---
+
+### Software Developer | **Coronacion Refrigeration & Airconditioning Services** | *Jun 2025 – May 2026*
+Built full-stack HVAC e-commerce platform with booking engine, product catalog, and admin dashboard. Refactored legacy PHP into clean layered architecture with RBAC and security hardening.
 
 > **Stack:** JavaScript • PHP 8.0 • MySQL • HTML5 • CSS3 • CDN
 
 ---
 
 ### Software Developer (Freelance) | **Self-Employed** | *Jun 2023 – May 2026*
-Delivered 7+ production web apps (booking systems, e-commerce, inventory management) — end-to-end from requirements to deployment. Built REST APIs and admin dashboards using Java, PHP, MySQL, and JavaScript.
+Delivered 7+ production web apps end-to-end — booking systems, e-commerce, inventory management. Built REST APIs and admin dashboards across multiple client domains.
 
-> **Stack:** Java 21 • Spring Boot • PHP • MySQL • JavaScript • Python • Tkinter • Java Swing/FX • HTML • CSS • Winforms
+> **Stack:** Java 21 • Spring Boot • PHP • MySQL • JavaScript • Python • HTML • CSS
 
 ---
 
-### Backend Developer | **Thomas Aquinas Institute of Learning** | *Feb 2026 – Apr 2026*
-Built school management system with RBAC, optimized MySQL schema, server-side pagination, and real-time polling notifications. Implemented cache-aside pattern (19.5ms → 0.68ms) and resolved N+1 query (19 → 1 query, 20% faster). Used MVC + Iterative Waterfall SDLC.
+### Backend Developer Intern | **Thomas Aquinas Institute of Learning** | *Feb 2026 – Apr 2026*
+Built school management system with RBAC, server-side pagination, and real-time polling. Implemented cache-aside pattern (19.5ms → 0.68ms) and resolved N+1 query (19 → 1 query).
 
-> **Stack:** MySQL • Git • PHP 8.0 • PDO • MVC
+> **Stack:** MySQL • PHP 8.0 • PDO • MVC • Git
 
 ---
 
