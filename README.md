@@ -7,9 +7,8 @@
 ---
 
 ## 🧠 About Me
-- 🛠️ Software Engineer specializing in backend systems, building **scalable, real-world systems**
-- ⚙️ Experienced in **Spring Boot**, **PHP**, and **relational databases,** with a focus on continuous improvement.
-- 🎮 Experienced with **Unity (C#)** for interactive systems
+- 🛠️ Software Engineer specializing in backend development, with full-stack capability; building **scalable, real-world systems**
+- ⚙️ Experienced in **Spring Boot**, **PHP**, **Node.js**, and **relational databases,** with a focus on continuous improvement.
 - 📊 Focused on **clean architecture, performance, and maintainability**
 
 ---
@@ -20,23 +19,39 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🏗️ Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Web Development (Backend & Frontend)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+--- 
+
+### 📱 Mobile App Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🖥️ Desktop App Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
 
@@ -97,28 +112,20 @@ Built school management system with RBAC, server-side pagination, and real-time 
 - Optimized for cross-device responsiveness (desktop, tablet, mobile) to maximize accessibility in low-resource environments
 - Designed system to support data-driven insights, enabling early detection of learning deficiencies and targeted intervention strategies
 
-> Stack: Spring Boot • MySQL • Redis • Postman • Nginx • HTML • CSS • JavaScript
+> Stack: Java, Spring Boot, MySQL, Redis, Postman, Nginx, HTML, CSS, JavaScript (ES6+)
 
 ### Travi: Travel Guide & Assistant
 - Built a hierarchical trip planning engine (Trip → Day → Activity) that converts unstructured travel data into structured itineraries with schedules and cost estimation.
-
 - Implemented secure authentication using Spring Security + JWT (login/register, role-based access for admin vs regular users).
-
 - Developed admin content platform for managing destinations, entry requirements, budget guides, packing lists, and local travel tips.
-
 - Built frontend with HTML5, CSS3, and JavaScript ES6+.
-
 - Designed clean layered architecture (Controller → Service → Repository) for scalability and maintainability.
-
 - Deployment ready: Core features complete. Will deploy on Hostinger VPS (Ubuntu + Nginx + Docker).
-
 - Data model structured to support future AI-assisted planning without major refactoring.
 
-> Stack: Spring Boot • PostgreSQL • HTML • CSS • JavaScript • Postman • Railway
+> Stack: Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript (ES6+), Postman, Railway, Vercel
 
 ### Airconditioning and Refrigeration Company E-Commerce Platform
-
-  (Coronacion Refrigeration and Airconditioning Services)
   
 - Developed a full stack business platform for an Airconditioning & Refrigeration / HVAC company serving institutional clients (De La Salle University, UP Diliman,     Megaworld Corporation, Cavite State University, etc.)
 - Developed an e-commerce storefront with cart management, appliance ordering, and real-time service order tracking
@@ -127,11 +134,9 @@ Built school management system with RBAC, server-side pagination, and real-time 
 - Mobile-first responsive design for real-world customer usage
 - Drove direct online customer acquisition — platform recorded 5 bookings and multiple appliance sales within the first month of launch
 
-> Stack: HTML5 • CSS3 • JavaScript • PHP (PDO, Object-Oriented) • MySQL, Redis
+> Stack: HTML5 • Tailwind • JavaScript (ES6+) • PHP • MySQL, Hostinger
 
 ### Catholic School Institutional Platform
-
-(The Thomas Aquinas Institute of Learning, Inc.)
 
 - Public-facing website with dynamic announcements and institutional content
 - Secure administrative dashboard for content and data management
@@ -139,7 +144,7 @@ Built school management system with RBAC, server-side pagination, and real-time 
 - Structured backend with MVC architecture and API layer
 - Designed for scalability, maintainability, and long-term institutional use
 
-> Stack: HTML5 • CSS3 • JavaScript • PHP (PDO, Object-Oriented) • MySQL • Mini-Redis style caching
+> Stack: HTML5, CSS3, JavaScript, PHP, MySQL, Mini-Redis style caching
 ---
 
 ## 📊 GitHub Stats
@@ -152,8 +157,9 @@ Built school management system with RBAC, server-side pagination, and real-time 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/nathaniel-coronacion-dev901278/
-- 📧 Email: nathanielcoronacion3@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/nathaniel-coronacion/
+- 📧 Email: nathanielcoronacion3@gmail.com
+- 💼 Portfolio: https://nathz-coronacion.vercel.app
 
 ---
 
