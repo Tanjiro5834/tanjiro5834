@@ -61,38 +61,24 @@
 
 ## 💼 Work Experience
 
-### Full Stack Developer | **St. John Fisher School** | *June 2026 – Present*
-Built a Cash Flow Monitoring System covering two campuses with role-based access, bank reconciliation, and audit trail. Delivered under a formal SOW with milestone-based payments.
-
-> **Stack:** HTML • CSS • JavaScript • PHP • MySQL • Redis
-
----
-
-### Java Developer | **Lumnaire** | *May 2026 – Present*
-Building Spring Boot + PostgreSQL REST APIs for a property management SaaS (web, mobile, desktop, IoT/RFID). Implementing JWT + RBAC across 5 user roles, integrating Xendit, Firebase FCM, and MQTT.
-
-> **Stack:** Spring Boot • PostgreSQL • JWT • Firebase • MQTT • Xendit • Docker • AWS • Kubernetes
-
----
-
-### Software Developer | **Coronacion Refrigeration & Airconditioning Services** | *Jun 2025 – May 2026*
-Built full-stack HVAC e-commerce platform with booking engine, product catalog, and admin dashboard. Refactored legacy PHP into clean layered architecture with RBAC and security hardening.
-
-> **Stack:** JavaScript • PHP 8.0 • MySQL • HTML5 • CSS3 • CDN
-
----
-
 ### Software Developer (Freelance) | **Self-Employed** | *Jun 2023 – May 2026*
 Delivered 7+ production web apps end-to-end — booking systems, e-commerce, inventory management. Built REST APIs and admin dashboards across multiple client domains.
 
-> **Stack:** Java 21 • Spring Boot • PHP • MySQL • JavaScript • Python • HTML • CSS
+> **Stack:** Java • Spring Boot • PHP • Laravel • MySQL • HTML • CSS • JavaScript • Python • C/C++ • Unity • React • React Native • Java Swing/FX
+
+---
+
+### Backend Developer | **Lumnaire** | *May 2026 – Present*
+Building Spring Boot + PostgreSQL REST APIs for a property management SaaS (web, mobile, desktop, IoT/RFID). Implementing JWT + RBAC across 5 user roles, integrating Xendit, Firebase FCM, and MQTT.
+
+> **Stack:** Java • Spring Boot • PostgreSQL • Git
 
 ---
 
 ### Backend Developer Intern | **Thomas Aquinas Institute of Learning** | *Feb 2026 – Apr 2026*
 Built school management system with RBAC, server-side pagination, and real-time polling. Implemented cache-aside pattern (19.5ms → 0.68ms) and resolved N+1 query (19 → 1 query).
 
-> **Stack:** MySQL • PHP 8.0 • PDO • MVC • Git
+> **Stack:** Custom PHP • MySQL • Node.js • Git
 
 ---
 
