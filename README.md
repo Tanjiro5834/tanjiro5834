@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Nathaniel Coronacion
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer;Backend+Engineer;Systems+%7C+Game+Dev;Spring+Boot+%7C+PHP+%7C+C%23+%7C+Unity" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Backend+Developer;Systems+%7C+Game+Dev;Spring+Boot+%7C+PHP+%7C+C%23+%7C+Unity" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🛠️ Software Engineer specializing in backend development, with full-stack capability; building **scalable, real-world systems**
-- ⚙️ Experienced in **Spring Boot**, **PHP**, **Node.js**, and **relational databases,** with a focus on continuous improvement.
+- 🛠️ Software Developer specializing in backend development, with full-stack capability; building **scalable, real-world systems**
+- ⚙️ Experienced and skilled in **Spring Boot**, **PHP**, **Laravel**, and **relational databases,** with a focus on continuous improvement.
 - 📊 Focused on **clean architecture, performance, and maintainability**
 
 ---
@@ -76,10 +76,10 @@
 
 ## 💼 Work Experience
 
-### Software Developer (Freelance) | **Self-Employed** | *Jun 2023 – May 2026*
+### Software Developer (Freelance) | **Self-Employed** | *Jun 2023 - Present*
 Delivered 7+ production web apps end-to-end — booking systems, e-commerce, inventory management. Built REST APIs and admin dashboards across multiple client domains.
 
-> **Stack:** Java • Spring Boot • PHP • Laravel • MySQL • HTML • CSS • JavaScript • Python • C/C++ • Unity • React • React Native • Java Swing/FX
+> **Stack:** Java • Spring Boot • PHP • Laravel • MySQL • HTML • CSS • JavaScript • Python • C/C++ • Unity • React • React Native
 
 ---
 
@@ -112,7 +112,7 @@ Built school management system with RBAC, server-side pagination, and real-time 
 - Optimized for cross-device responsiveness (desktop, tablet, mobile) to maximize accessibility in low-resource environments
 - Designed system to support data-driven insights, enabling early detection of learning deficiencies and targeted intervention strategies
 
-> Stack: Java, Spring Boot, MySQL, Redis, Postman, Nginx, HTML, CSS, JavaScript (ES6+)
+> Stack: Java, Spring Boot, MySQL, Redis, Postman, Nginx, HTML, CSS, JavaScript
 
 ### Travi: Travel Guide & Assistant
 - Built a hierarchical trip planning engine (Trip → Day → Activity) that converts unstructured travel data into structured itineraries with schedules and cost estimation.
@@ -123,7 +123,7 @@ Built school management system with RBAC, server-side pagination, and real-time 
 - Deployment ready: Core features complete. Will deploy on Hostinger VPS (Ubuntu + Nginx + Docker).
 - Data model structured to support future AI-assisted planning without major refactoring.
 
-> Stack: Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript (ES6+), Postman, Railway, Vercel
+> Stack: Spring Boot, PostgreSQL, HTML, CSS, JavaScript, Postman, Railway, Vercel
 
 ### Airconditioning and Refrigeration Company E-Commerce Platform
   
@@ -134,7 +134,7 @@ Built school management system with RBAC, server-side pagination, and real-time 
 - Mobile-first responsive design for real-world customer usage
 - Drove direct online customer acquisition — platform recorded 5 bookings and multiple appliance sales within the first month of launch
 
-> Stack: HTML5 • Tailwind • JavaScript (ES6+) • PHP • MySQL, Hostinger
+> Stack: HTML • Tailwind CSS • JavaScript • PHP • MySQL
 
 ### Catholic School Institutional Platform
 
@@ -144,7 +144,7 @@ Built school management system with RBAC, server-side pagination, and real-time 
 - Structured backend with MVC architecture and API layer
 - Designed for scalability, maintainability, and long-term institutional use
 
-> Stack: HTML5, CSS3, JavaScript, PHP, MySQL, Mini-Redis style caching
+> Stack: HTML, CSS, JavaScript, PHP, MySQL
 ---
 
 ## 📊 GitHub Stats
@@ -159,9 +159,4 @@ Built school management system with RBAC, server-side pagination, and real-time 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/nathaniel-coronacion/
 - 📧 Email: nathanielcoronacion3@gmail.com
-- 💼 Portfolio: https://nathz-coronacion.vercel.app
-
----
-
-## ⚡ Philosophy
-> Clean code. Predictable systems. Scalable architecture.
+- 💼 Portfolio: https://nathanielcoronacion.com
