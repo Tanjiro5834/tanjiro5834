@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Nathaniel Coronacion
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Backend+Developer;Systems+%7C+Game+Dev;Spring+Boot+%7C+PHP+%7C+C%23+%7C+Unity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Developer;Systems+%7C+Game+Dev;Laravel+%7C+PHP+%7C+Spring+Boot+%7C+C%23+%7C+Unity" />
 </p>
 
----
-
 ## 🧠 About Me
-- 🛠️ Software Engineer specializing in backend development, with full-stack capability; building **scalable, real-world systems**
-- ⚙️ Experienced and skilled in **Spring Boot**, **PHP**, **Laravel**, and **relational databases,** with a focus on continuous improvement.
+- 🛠️ Software Developer specializing in backend development, with full-stack capability; building **scalable, real-world systems**
+- ⚙️ Experienced and skilled in **PHP**, **Laravel**, **Spring Boot**, and **relational databases,** with a focus on continuous improvement.
 - 📊 Focused on **clean architecture, performance, and maintainability**
 
 ---
@@ -16,9 +14,8 @@
 ## 🧰 My Tech Stack
 
 ### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +23,7 @@
 ---
 
 ### 🌐 Web Development (Backend & Frontend)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,6 +31,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
